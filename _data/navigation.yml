@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Home page"
-    url: /docs/homepage/
+    url: https://meljsingh.github.io/docs/homepage/
   - title: "People"
-    url: /docs/people/
+    url: https://meljsingh.github.io/docs/people/
   - title: "Projects"
     url: /docs/projects/
+  - title: "Introduction"
+    url: /introduction/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
