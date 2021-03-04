@@ -7,10 +7,13 @@ main:
   - title: "Projects"
     url: /docs/projects/
   - title: "Introduction"
-    url: /introduction/
+    url: https://meljsingh.github.io/intro/
+  - title: "Projects"
+    url: /allprojects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
