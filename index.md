@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# Energy Efficient Cities initiative
+Welcome to our website!
 
 ![EECi Group Logo](/Images/Group Logo.png)
 
