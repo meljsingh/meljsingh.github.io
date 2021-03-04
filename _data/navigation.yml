@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Home page"
-    url: /docs/01-homepage/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /docs/homepage/
+  - title: "People"
+    url: /docs/people/
+  - title: "Projects"
+    url: /docs/projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
