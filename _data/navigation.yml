@@ -15,7 +15,7 @@ main:
   
   sidebar-projects:
   - title: "Urban Farming"
-    url: /docs/projects/urbanfarming/
+    url: /docs/_projects/urbanfarming/
   - title: "Energy"
-    url: /docs/projects/energy/
+    url: /docs/_projects/energy/
   
