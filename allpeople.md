@@ -3,6 +3,9 @@ layout: posts
 title: Our team
 description: An overview of EECi team members 
 last_modified_at: 2021-03-03
+sidebar:
+  title: "Our team"
+  nav: sidebar-people
 ---
 
 
