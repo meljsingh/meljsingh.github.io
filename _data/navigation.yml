@@ -12,8 +12,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
-  sidebar-projects:
+
+sidebar-projects:
   - title: "Urban Farming"
     url: /docs/_projects/urbanfarming/
   - title: "Energy"
