@@ -13,3 +13,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
+  sidebar-projects:
+  - title: "Urban Farming"
+    url: /docs/projects/urbanfarming/
+  - title: "Energy"
+    url: /docs/projects/energy/
+  
