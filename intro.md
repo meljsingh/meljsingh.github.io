@@ -12,6 +12,7 @@ tags:
 ---
 
 Welcome to my website
+![EECi Group Logo](/Images/Group Logo.png)
 
 # Section 1
 
